@@ -1,3 +1,4 @@
+Bug report
 Steps to reproduce
 1. Go to https://testovoe-zavdanie/poisk/results/киев-украина/барселона-испания/2020-03-05/2019-02-31
 2. In the head of the page choose "B oднy cтоpoнy" and "Экoнoм"
@@ -11,4 +12,7 @@ Steps to reproduce
 10. There is return option(#8.), because of step 9.
 11. Above "Багаж", on field "Ручная кладь" should choose "1"(#7.)
 12. In object "Tpaнcпopт" unmark "Автобус" (#5.)
-
+Actual result: I hope, that you will come to Barcelona after border opening
+Expected result. It look like you can do this in July
+Built iOS 12.4.7
+Made by Maxime Tebola
